@@ -1,0 +1,48 @@
+# --- Entorno virtual ---
+.venv/
+venv/
+ENV/
+env/
+
+# --- Archivos de Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.egg-info/
+*.spec
+
+# --- Carpetas de build ---
+build/
+dist/
+*.egg-info/
+
+# --- Logs ---
+logs/
+*.log
+
+# --- Cache de Qt/PySide6 ---
+*.qmlc
+*.jsc
+*/__pycache__/
+
+# --- Configuración de IDE ---
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# --- Sistemas ---
+.DS_Store
+Thumbs.db
+
+# --- Configuración del sistema ADB ---
+# (Para no subir rutas o configs locales)
+adb_config.json
+
+# --- Imágenes temporales de scrcpy ---
+scrcpy_log.txt
