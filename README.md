@@ -52,7 +52,7 @@ MULTI_ANDROID_LAB_SCRCPY=C:\ruta\scrcpy.exe
 ##  Instalación rápida (Windows)
 
 ```powershell
-git clone https://github.com/<tu_usuario>/multi_android_lab.git
+git clone https://github.com/JuanZaArG/Gaucholab.git
 cd multi_android_lab
 run_multi_android_lab.bat
 ````
@@ -198,7 +198,7 @@ MULTI_ANDROID_LAB_SCRCPY=C:\path\scrcpy.exe
 ## Quick Installation (Windows)
 
 ```powershell
-git clone https://github.com/<your_user>/multi_android_lab.git
+git clone https://github.com/JuanZaArG/Gaucholab.git
 cd multi_android_lab
 run_multi_android_lab.bat
 ```
